@@ -1,0 +1,7 @@
+
+
+const Student_info = {
+    name : 'Sakib Sirajbhai mansuri',
+    id : 122728223,
+    Email : smansuri5@myseneca.ca
+}
